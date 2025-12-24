@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Movaisy – Politique de confidentialité</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body style="max-width: 800px; margin: 2rem auto; font-family: system-ui, sans-serif; line-height: 1.5;">
+  <h1>Politique de confidentialité – Movaisy</h1>
+
+  <p>Dernière mise à jour : 24/12/2025</p>
+
+  <h2>1. Responsable du traitement</h2>
+  <p>
+    Cette application (“Movaisy”) est éditée par [Ton nom / ta société].<br />
+    Contact : <a href="mailto:contact@tondomaine.com">contact@tondomaine.com</a>
+  </p>
+
+  <h2>2. Données collectées</h2>
+  <ul>
+    <li>Données de compte : nom, email, numéro de téléphone, mot de passe (haché)</li>
+    <li>Données de localisation : position GPS pour proposer / suivre les trajets</li>
+    <li>Données techniques : modèle de l’appareil, système d’exploitation, identifiants Firebase, etc.</li>
+  </ul>
+
+  <h2>3. Finalités</h2>
+  <ul>
+    <li>Création et gestion de votre compte</li>
+    <li>Réservation et suivi des trajets</li>
+    <li>Amélioration de l’application et statistiques anonymisées</li>
+    <li>Envoi de notifications liées au service (trajets, sécurité, etc.)</li>
+  </ul>
+
+  <h2>4. Partage des données</h2>
+  <p>
+    Vos données peuvent être partagées avec :
+  </p>
+  <ul>
+    <li>Les conducteurs / passagers concernés par vos trajets</li>
+    <li>Nos prestataires techniques (hébergement, Firebase, etc.)</li>
+    <li>Les autorités en cas d’obligation légale</li>
+  </ul>
+
+  <h2>5. Durée de conservation</h2>
+  <p>
+    Nous conservons vos données aussi longtemps que nécessaire pour fournir le service et
+    conformément aux obligations légales applicables.
+  </p>
+
+  <h2>6. Vos droits</h2>
+  <p>
+    Vous pouvez exercer vos droits d’accès, de rectification, d’opposition, de portabilité
+    et de suppression en nous contactant à :
+    <a href="mailto:privacy@tondomaine.com">privacy@tondomaine.com</a>
+  </p>
+
+  <h2>7. Suppression de compte</h2>
+  <p>
+    Pour supprimer votre compte et vos données associées :
+  </p>
+  <ol>
+    <li>Ouvrez l’application Movaisy.</li>
+    <li>Allez dans <strong>Profil &gt; Paramètres &gt; Supprimer mon compte</strong>.</li>
+    <li>Confirmez la suppression.</li>
+  </ol>
+  <p>
+    En cas de problème, vous pouvez également demander la suppression par email à
+    <a href="mailto:support@tondomaine.com">support@tondomaine.com</a>.
+  </p>
+
+  <h2>8. Contact</h2>
+  <p>
+    Pour toute question concernant cette politique de confidentialité, contactez-nous à :
+    <a href="mailto:privacy@tondomaine.com">privacy@tondomaine.com</a>.
+  </p>
+</body>
+</html>
